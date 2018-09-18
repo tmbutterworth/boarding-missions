@@ -1,5 +1,5 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: https://github.com/tmbutterworth/navy-conscript
+Source: https://github.com/tmbutterworth/boarding-missions
 
 Files: *
 Copyright: Timothy Butterworth <timothy.m.butterworth@gmail.com>
