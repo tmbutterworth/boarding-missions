@@ -1,4 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: boarding-missions
+Upstream-Contact: Timothy Butterworth <timothy.m.butterworth@gmail.com>
 Source: https://github.com/tmbutterworth/boarding-missions
 
 Files: *
